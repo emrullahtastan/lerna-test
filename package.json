@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-test",
+  "name": "root",
   "version": "0.0.1",
   "description": "> lerna-test description",
   "author": "Emrullah",
