@@ -1,6 +1,6 @@
 <template>
   <div>
-    Button3
+    Button4
   </div>
 </template>
 <script>
