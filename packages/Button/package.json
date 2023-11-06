@@ -1,8 +1,8 @@
 {
   "name": "@lerna-test/button",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "e4f6caac46da14892eae012cdff5b00a9dd906d9"
+  "gitHead": "d55a4b235cceb577a6a7a28cb0058950ad9c1d7f"
 }
