@@ -1,9 +1,21 @@
 {
-  "name": "root",
+  "name": "@lerna-test",
+  "version": "0.0.1",
+  "description": "> lerna-test description",
+  "author": "Emrullah",
+  "main": "packages/button.vue",
+  "license": "ISC",
   "private": true,
+  "files": [
+    "packages"
+  ],
   "workspaces": [
     "packages/*"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emrullahtastan/lerna-test"
+  },
   "devDependencies": {
     "lerna": "^6.6.2"
   }
